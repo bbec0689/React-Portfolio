@@ -12,7 +12,7 @@ import Photo5 from "./photos/weather-dashboard.png";
 function Portfolio() {
   return (
     <Container>
-      <Row>
+      <Row className="flex-row">
         <Col>
           <img width={300} height={300} className="" src={Photo} />
         </Col>
@@ -25,7 +25,7 @@ function Portfolio() {
           <img width={300} height={300} className="mr-3" src={Photo5} />
         </Col>
       </Row>
-      <Row>
+      <Row className="flex-row">
         <Col>
           <img width={300} height={300} className="mr-3" src={Photo2} />
         </Col>
