@@ -10,7 +10,12 @@ function Resume() {
                 
             <ul>
             <h3>Languages Used:</h3>
-                <li className="text-color center-spacing"></li>
+                <li className="text-color center-spacing">HTML, CSS, Javascript</li>
+                <li className="text-color center-spacing">MERN</li>
+                <li className="text-color center-spacing">nodeJS</li>
+                <li className="text-color center-spacing">ExpressJs</li>
+                <li className="text-color center-spacing">SQL</li>
+                <li className="text-color center-spacing">jest</li>
             </ul>
             </div>
         </section>
