@@ -50,7 +50,7 @@ function Contact() {
                     <input type="email" name="email"  className="input-s" placeholder="example@example.com" type="email" defaultValue={email} onChange={handleChange} name="email"></input><br></br><br></br>
                     <label htmlFor="message">Message:</label><br></br><br></br>
                     <textarea name="message" defaultValue={message} onChange={handleChange} rows="5" className="input-s" placeholder="Your message here..."></textarea><br></br><br></br>
-                    <Button className="btn" type="submit" value="Submit">Send</Button>
+                    <Button  className="btn" type="submit" value="Submit" href="mailto:bbec0689@gmail.com">Send</Button>
                 </form>
             </div>
         </section>

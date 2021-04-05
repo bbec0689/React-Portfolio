@@ -9,7 +9,7 @@ function Resume() {
             <div className="my-2">
                 
             <ul>
-            <h3>Languages Used:</h3>
+            <h3 className="lang-known">Languages Known:</h3>
                 <li className="text-color center-spacing">HTML, CSS, Javascript</li>
                 <li className="text-color center-spacing">MERN</li>
                 <li className="text-color center-spacing">nodeJS</li>

@@ -1,14 +1,20 @@
-import React from 'react'
+import React, { Component } from 'react';
+
+
 
 function About() {
 
     return (
-
+        
         <section className="my-5" >
                         <h1 id="about" className="text-color about-styling">About me</h1>
+                        
             <div className="my-2">
                 <p className="text-color center-spacing">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+                    Hey there,<br></br><br></br>
+                    My name is Dave Beckstead, I am currently a student at the University of Utah to become a full stack developer. I also work at Paramount Acceptance
+                    as an IT Technician, QA Tester, and part time Web Developer. I have an amazing wife, 3 dogs and a cat at home. I am a soccer fanatic and have been
+                    working with computers my whole life. If you have any questions at all visit the "Contact" section of this website.
                 </p>
             </div>
         </section>
