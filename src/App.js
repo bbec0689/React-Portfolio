@@ -7,9 +7,6 @@ import Resume from './components/Resume';
 
 
 
-
-
-
 function App() {
 
 

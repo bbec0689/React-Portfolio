@@ -12,11 +12,12 @@ function Nav(props) {
 
 <>
 <header className="flex-row space-between px-2 header-color">
-      <h2>
-      <a href="/">
-                    <span className="flex-start">Dave Beckstead</span>
-        </a>
-      </h2>
+<h1>
+                <Link className="Jones" to="/">
+                    <span role="img" aria-label="shopping bag">🧥</span>
+                    Steele & Jones
+                </Link>
+            </h1>
 
   <div>
     <ul className="flex-row">
